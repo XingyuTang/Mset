@@ -1,4 +1,4 @@
-# Mset
+# AVL Tree Implementation
 
 ## Overview
 Exercise in implementation of BST and AVL tree operations, completed as part of a university computing course. Utilises both basic and advanced operations, such as insertion, search, union, intersection and tree balancing operations. Focuses on program/algorithmic efficiency
